@@ -2,7 +2,7 @@
 
 > Automated binary options trading bot — listens to any Telegram signal channel and executes trades on Binolla hands-free, with a built-in Martingale engine.
 
-https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_VIDEO_ID.mp4
+[![This Bot Trades For Me](https://img.youtube.com/vi/C7jO8fVyoLM/maxresdefault.jpg)](https://youtu.be/C7jO8fVyoLM)
 
 ---
 
@@ -172,9 +172,10 @@ Main menu:
 
 ## Built By
 
-**Redux** — Independent developer specializing in trading bots, automation systems, and fintech infrastructure.
+**[Ademola Digital Services](https://www.redux.name.ng)** — Lagos-based technical automation company specializing in trading bots, payment systems, API integrations, and fintech infrastructure.
 
 Open to building similar or custom systems.
 
-[![Upwork](https://img.shields.io/badge/Hire_on-Upwork-6fda44?style=flat-square)](YOUR_UPWORK_LINK)
-[![Twitter](https://img.shields.io/badge/Follow-Twitter-1da1f2?style=flat-square)](YOUR_TWITTER_LINK)
+[![Website](https://img.shields.io/badge/Website-redux.name.ng-black?style=flat-square)](https://www.redux.name.ng)
+[![Upwork](https://img.shields.io/badge/Hire_on-Upwork-6fda44?style=flat-square)](https://www.upwork.com/freelancers/reduxddev)
+[![Twitter](https://img.shields.io/badge/Follow-Twitter-1da1f2?style=flat-square)](https://x.com/Redox_Dev)
